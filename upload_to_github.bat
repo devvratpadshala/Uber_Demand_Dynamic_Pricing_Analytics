@@ -25,7 +25,7 @@ echo.
 echo =========================================================================
 echo [IMPORTANT] Ensure you have created an empty repository on GitHub named:
 echo             Uber_Demand_Dynamic_Pricing_Analytics
-echo             under your GitHub account (Devvrat26):
+echo             under your GitHub account (devvratpadshala):
 echo             https://github.com/new
 echo =========================================================================
 echo.
@@ -46,7 +46,7 @@ if %ERRORLEVEL% NEQ 0 (
     echo.
     echo =========================================================================
     echo [SUCCESS] Project successfully uploaded to GitHub!
-    echo URL: https://github.com/Devvrat26/Uber_Demand_Dynamic_Pricing_Analytics
+    echo URL: https://github.com/devvratpadshala/Uber_Demand_Dynamic_Pricing_Analytics
     echo =========================================================================
     echo.
 )
