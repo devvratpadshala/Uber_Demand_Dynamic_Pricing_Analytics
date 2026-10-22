@@ -46,10 +46,15 @@ Desktop.ini
 $RECYCLE.BIN/
 .DS_Store
 
-# Academic reports & Word files (kept local, excluded from GitHub)
+# Academic reports, Word & PowerPoint files (kept local, excluded from GitHub)
 reports/*.docx
+*.docx
+reports/*.pptx
+*.pptx
 reports/project_report.md
 reports/seminar_presentation.md
 reports/viva_preparation.md
 reports/convert_to_word.py
+reports/generate_presentation.py
+
 
